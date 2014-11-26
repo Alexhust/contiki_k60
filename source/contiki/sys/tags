@@ -1,0 +1,287 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARG_H_	.\arg.h	35;"	d
+AUTOSTART_H_	.\autostart.h	41;"	d
+AUTOSTART_PROCESSES	.\autostart.h	47;"	d
+AUTOSTART_PROCESSES	.\autostart.h	50;"	d
+CC_ASSIGN_AGGREGATE	.\cc.h	116;"	d
+CC_ASSIGN_AGGREGATE	.\cc.h	118;"	d
+CC_CONCAT	.\cc.h	137;"	d
+CC_CONCAT2	.\cc.h	129;"	d
+CC_CONST_FUNCTION	.\cc.h	83;"	d
+CC_CONST_FUNCTION	.\cc.h	85;"	d
+CC_DOUBLE_HASH	.\cc.h	101;"	d
+CC_DOUBLE_HASH	.\cc.h	103;"	d
+CC_FASTCALL	.\cc.h	74;"	d
+CC_FASTCALL	.\cc.h	76;"	d
+CC_FUNCTION_POINTER_ARGS	.\cc.h	64;"	d
+CC_FUNCTION_POINTER_ARGS	.\cc.h	66;"	d
+CC_H_	.\cc.h	45;"	d
+CC_INLINE	.\cc.h	107;"	d
+CC_INLINE	.\cc.h	109;"	d
+CC_NO_VA_ARGS	.\cc.h	122;"	d
+CC_REGISTER_ARG	.\cc.h	54;"	d
+CC_REGISTER_ARG	.\cc.h	56;"	d
+CC_UNSIGNED_CHAR_BUGS	.\cc.h	92;"	d
+CC_UNSIGNED_CHAR_BUGS	.\cc.h	94;"	d
+CTIMER_H_	.\ctimer.h	55;"	d
+DEBUG	.\autostart.c	42;"	d	file:
+DEBUG	.\ctimer.c	53;"	d	file:
+DEBUG	.\process.c	83;"	d	file:
+DEBUG	.\rtimer.c	50;"	d	file:
+ENERGEST_H_	.\energest.h	41;"	d
+ENERGEST_OFF	.\energest.h	109;"	d
+ENERGEST_OFF	.\energest.h	125;"	d
+ENERGEST_OFF	.\energest.h	95;"	d
+ENERGEST_OFF_LEVEL	.\energest.h	102;"	d
+ENERGEST_OFF_LEVEL	.\energest.h	115;"	d
+ENERGEST_OFF_LEVEL	.\energest.h	126;"	d
+ENERGEST_ON	.\energest.h	124;"	d
+ENERGEST_ON	.\energest.h	88;"	d
+ENERGEST_TYPE_CPU	.\energest.h	/^  ENERGEST_TYPE_CPU,$/;"	e	enum:energest_type
+ENERGEST_TYPE_FLASH_READ	.\energest.h	/^  ENERGEST_TYPE_FLASH_READ,$/;"	e	enum:energest_type
+ENERGEST_TYPE_FLASH_WRITE	.\energest.h	/^  ENERGEST_TYPE_FLASH_WRITE,$/;"	e	enum:energest_type
+ENERGEST_TYPE_IRQ	.\energest.h	/^  ENERGEST_TYPE_IRQ,$/;"	e	enum:energest_type
+ENERGEST_TYPE_LED_GREEN	.\energest.h	/^  ENERGEST_TYPE_LED_GREEN,$/;"	e	enum:energest_type
+ENERGEST_TYPE_LED_RED	.\energest.h	/^  ENERGEST_TYPE_LED_RED,$/;"	e	enum:energest_type
+ENERGEST_TYPE_LED_YELLOW	.\energest.h	/^  ENERGEST_TYPE_LED_YELLOW,$/;"	e	enum:energest_type
+ENERGEST_TYPE_LISTEN	.\energest.h	/^  ENERGEST_TYPE_LISTEN,$/;"	e	enum:energest_type
+ENERGEST_TYPE_LPM	.\energest.h	/^  ENERGEST_TYPE_LPM,$/;"	e	enum:energest_type
+ENERGEST_TYPE_MAX	.\energest.h	/^  ENERGEST_TYPE_MAX$/;"	e	enum:energest_type
+ENERGEST_TYPE_SENSORS	.\energest.h	/^  ENERGEST_TYPE_SENSORS,$/;"	e	enum:energest_type
+ENERGEST_TYPE_SERIAL	.\energest.h	/^  ENERGEST_TYPE_SERIAL,$/;"	e	enum:energest_type
+ENERGEST_TYPE_TRANSMIT	.\energest.h	/^  ENERGEST_TYPE_TRANSMIT,$/;"	e	enum:energest_type
+ETIMER_H_	.\etimer.h	63;"	d
+LC_END	.\lc-switch.h	71;"	d
+LC_END	.\lc.h	107;"	d
+LC_H_	.\lc.h	119;"	d
+LC_INIT	.\lc-switch.h	65;"	d
+LC_INIT	.\lc.h	70;"	d
+LC_RESUME	.\lc-switch.h	67;"	d
+LC_RESUME	.\lc.h	95;"	d
+LC_SET	.\lc-switch.h	69;"	d
+LC_SET	.\lc.h	83;"	d
+LC_SWITCH_H_	.\lc-switch.h	57;"	d
+LOADER_ERR_ARCH	.\loader.h	66;"	d
+LOADER_ERR_FMT	.\loader.h	63;"	d
+LOADER_ERR_HDR	.\loader.h	61;"	d
+LOADER_ERR_MEM	.\loader.h	64;"	d
+LOADER_ERR_NOLOADER	.\loader.h	68;"	d
+LOADER_ERR_OPEN	.\loader.h	65;"	d
+LOADER_ERR_OS	.\loader.h	62;"	d
+LOADER_ERR_READ	.\loader.h	60;"	d
+LOADER_ERR_VERSION	.\loader.h	67;"	d
+LOADER_H_	.\loader.h	55;"	d
+LOADER_LOAD	.\loader.h	91;"	d
+LOADER_LOAD_DSC	.\loader.h	115;"	d
+LOADER_OK	.\loader.h	59;"	d
+LOADER_UNLOAD	.\loader.h	103;"	d
+LOADER_UNLOAD_DSC	.\loader.h	125;"	d
+NULL	.\cc.h	126;"	d
+PRINTF	.\autostart.c	45;"	d	file:
+PRINTF	.\autostart.c	47;"	d	file:
+PRINTF	.\ctimer.c	56;"	d	file:
+PRINTF	.\ctimer.c	58;"	d	file:
+PRINTF	.\process.c	86;"	d	file:
+PRINTF	.\process.c	88;"	d	file:
+PRINTF	.\rtimer.c	53;"	d	file:
+PRINTF	.\rtimer.c	55;"	d	file:
+PROCESS	.\process.h	302;"	d
+PROCESS	.\process.h	307;"	d
+PROCESS_BEGIN	.\process.h	120;"	d
+PROCESS_BROADCAST	.\process.h	103;"	d
+PROCESS_CONF_NUMEVENTS	.\process.h	88;"	d
+PROCESS_CONTEXT_BEGIN	.\process.h	426;"	d
+PROCESS_CONTEXT_END	.\process.h	440;"	d
+PROCESS_CURRENT	.\process.h	402;"	d
+PROCESS_END	.\process.h	131;"	d
+PROCESS_ERR_FULL	.\process.h	82;"	d
+PROCESS_ERR_OK	.\process.h	74;"	d
+PROCESS_EVENT_COM	.\process.h	100;"	d
+PROCESS_EVENT_CONTINUE	.\process.h	96;"	d
+PROCESS_EVENT_EXIT	.\process.h	94;"	d
+PROCESS_EVENT_EXITED	.\process.h	98;"	d
+PROCESS_EVENT_INIT	.\process.h	92;"	d
+PROCESS_EVENT_MAX	.\process.h	101;"	d
+PROCESS_EVENT_MSG	.\process.h	97;"	d
+PROCESS_EVENT_NONE	.\process.h	91;"	d
+PROCESS_EVENT_POLL	.\process.h	93;"	d
+PROCESS_EVENT_SERVICE_REMOVED	.\process.h	95;"	d
+PROCESS_EVENT_TIMER	.\process.h	99;"	d
+PROCESS_EXIT	.\process.h	200;"	d
+PROCESS_EXITHANDLER	.\process.h	254;"	d
+PROCESS_H_	.\process.h	54;"	d
+PROCESS_LIST	.\process.h	526;"	d
+PROCESS_NAME	.\process.h	286;"	d
+PROCESS_NAME_STRING	.\process.h	318;"	d
+PROCESS_NAME_STRING	.\process.h	321;"	d
+PROCESS_NONE	.\process.h	85;"	d
+PROCESS_PAUSE	.\process.h	221;"	d
+PROCESS_POLLHANDLER	.\process.h	242;"	d
+PROCESS_PT_SPAWN	.\process.h	211;"	d
+PROCESS_STATE_CALLED	.\process.c	79;"	d	file:
+PROCESS_STATE_NONE	.\process.c	77;"	d	file:
+PROCESS_STATE_RUNNING	.\process.c	78;"	d	file:
+PROCESS_THREAD	.\ctimer.c	/^PROCESS_THREAD(ctimer_process, ev, data)$/;"	f
+PROCESS_THREAD	.\etimer.c	/^PROCESS_THREAD(etimer_process, ev, data)$/;"	f
+PROCESS_THREAD	.\process.h	273;"	d
+PROCESS_WAIT_EVENT	.\process.h	141;"	d
+PROCESS_WAIT_EVENT_UNTIL	.\process.h	157;"	d
+PROCESS_WAIT_UNTIL	.\process.h	192;"	d
+PROCESS_WAIT_WHILE	.\process.h	193;"	d
+PROCESS_YIELD	.\process.h	164;"	d
+PROCESS_YIELD_UNTIL	.\process.h	178;"	d
+PROCESS_ZOMBIE	.\process.h	104;"	d
+PROCINIT	.\procinit.h	38;"	d
+PROCINIT_H_	.\procinit.h	33;"	d
+PT_BEGIN	.\pt.h	114;"	d
+PT_END	.\pt.h	126;"	d
+PT_ENDED	.\pt.h	60;"	d
+PT_EXIT	.\pt.h	245;"	d
+PT_EXITED	.\pt.h	59;"	d
+PT_H_	.\pt.h	49;"	d
+PT_INIT	.\pt.h	79;"	d
+PT_RESTART	.\pt.h	228;"	d
+PT_SCHEDULE	.\pt.h	270;"	d
+PT_SPAWN	.\pt.h	205;"	d
+PT_THREAD	.\pt.h	99;"	d
+PT_WAITING	.\pt.h	57;"	d
+PT_WAIT_THREAD	.\pt.h	191;"	d
+PT_WAIT_UNTIL	.\pt.h	147;"	d
+PT_WAIT_WHILE	.\pt.h	166;"	d
+PT_YIELD	.\pt.h	289;"	d
+PT_YIELDED	.\pt.h	58;"	d
+PT_YIELD_UNTIL	.\pt.h	309;"	d
+RTIMER_ARCH_H_	.\rtimer-arch.h	9;"	d
+RTIMER_ARCH_SECOND	.\rtimer-arch.h	13;"	d
+RTIMER_CLOCK_LT	.\rtimer.h	59;"	d
+RTIMER_ERR_ALREADY_SCHEDULED	.\rtimer.h	/^  RTIMER_ERR_ALREADY_SCHEDULED,$/;"	e	enum:__anon2
+RTIMER_ERR_FULL	.\rtimer.h	/^  RTIMER_ERR_FULL,$/;"	e	enum:__anon2
+RTIMER_ERR_TIME	.\rtimer.h	/^  RTIMER_ERR_TIME,$/;"	e	enum:__anon2
+RTIMER_H_	.\rtimer.h	53;"	d
+RTIMER_NOW	.\rtimer.h	132;"	d
+RTIMER_OK	.\rtimer.h	/^  RTIMER_OK,$/;"	e	enum:__anon2
+RTIMER_SECOND	.\rtimer.h	151;"	d
+RTIMER_TIME	.\rtimer.h	145;"	d
+TIMER_H_	.\timer.h	74;"	d
+add_timer	.\etimer.c	/^add_timer(struct etimer *timer)$/;"	f	file:
+arg_alloc	.\arg.c	/^arg_alloc(char size)$/;"	f
+arg_free	.\arg.c	/^arg_free(char *arg)$/;"	f
+arg_init	.\arg.c	/^arg_init(void)$/;"	f
+argbuf	.\arg.c	/^struct argbuf {$/;"	s	file:
+autostart_exit	.\autostart.c	/^autostart_exit(struct process * const processes[])$/;"	f
+autostart_start	.\autostart.c	/^autostart_start(struct process * const processes[])$/;"	f
+buf	.\arg.c	/^  char buf[128];$/;"	m	struct:argbuf	file:
+bufs	.\arg.c	/^static struct argbuf bufs[1];$/;"	v	typeref:struct:argbuf	file:
+call_process	.\process.c	/^call_process(struct process *p, process_event_t ev, process_data_t data)$/;"	f	file:
+ctimer	.\ctimer.h	/^struct ctimer {$/;"	s
+ctimer_expired	.\ctimer.c	/^ctimer_expired(struct ctimer *c)$/;"	f
+ctimer_init	.\ctimer.c	/^ctimer_init(void)$/;"	f
+ctimer_list	.\ctimer.c	/^LIST(ctimer_list);$/;"	v
+ctimer_reset	.\ctimer.c	/^ctimer_reset(struct ctimer *c)$/;"	f
+ctimer_restart	.\ctimer.c	/^ctimer_restart(struct ctimer *c)$/;"	f
+ctimer_set	.\ctimer.c	/^ctimer_set(struct ctimer *c, clock_time_t t,$/;"	f
+ctimer_stop	.\ctimer.c	/^ctimer_stop(struct ctimer *c)$/;"	f
+current	.\energest.h	/^  unsigned long current;$/;"	m	struct:__anon1
+data	.\process.c	/^  process_data_t data;$/;"	m	struct:event_data	file:
+do_event	.\process.c	/^do_event(void)$/;"	f	file:
+do_poll	.\process.c	/^do_poll(void)$/;"	f	file:
+energest_current_mode	.\energest.c	/^unsigned char energest_current_mode[ENERGEST_TYPE_MAX];$/;"	v
+energest_current_time	.\energest.c	/^rtimer_clock_t energest_current_time[ENERGEST_TYPE_MAX];$/;"	v
+energest_flush	.\energest.c	/^energest_flush(void)$/;"	f
+energest_flush	.\energest.c	/^void energest_flush(void) {}$/;"	f
+energest_init	.\energest.c	/^energest_init(void)$/;"	f
+energest_init	.\energest.c	/^void energest_init(void) {}$/;"	f
+energest_leveldevice_current_leveltime	.\energest.c	/^energest_t energest_leveldevice_current_leveltime[ENERGEST_CONF_LEVELDEVICE_LEVELS];$/;"	v
+energest_leveldevice_leveltime	.\energest.c	/^energest_leveldevice_leveltime(int powerlevel)$/;"	f
+energest_t	.\energest.h	/^} energest_t;$/;"	t	typeref:struct:__anon1
+energest_total_count	.\energest.c	/^int energest_total_count;$/;"	v
+energest_total_time	.\energest.c	/^energest_t energest_total_time[ENERGEST_TYPE_MAX];$/;"	v
+energest_type	.\energest.h	/^enum energest_type {$/;"	g
+energest_type_set	.\energest.c	/^energest_type_set(int type, unsigned long val)$/;"	f
+energest_type_set	.\energest.c	/^void energest_type_set(int type, unsigned long val) {}$/;"	f
+energest_type_time	.\energest.c	/^energest_type_time(int type)$/;"	f
+energest_type_time	.\energest.c	/^unsigned long energest_type_time(int type) { return 0; }$/;"	f
+etimer	.\ctimer.h	/^  struct etimer etimer;$/;"	m	struct:ctimer	typeref:struct:ctimer::etimer
+etimer	.\etimer.h	/^struct etimer {$/;"	s
+etimer_adjust	.\etimer.c	/^etimer_adjust(struct etimer *et, int timediff)$/;"	f
+etimer_expiration_time	.\etimer.c	/^etimer_expiration_time(struct etimer *et)$/;"	f
+etimer_expired	.\etimer.c	/^etimer_expired(struct etimer *et)$/;"	f
+etimer_next_expiration_time	.\etimer.c	/^etimer_next_expiration_time(void)$/;"	f
+etimer_pending	.\etimer.c	/^etimer_pending(void)$/;"	f
+etimer_process	.\etimer.h	/^PROCESS_NAME(etimer_process);$/;"	v
+etimer_request_poll	.\etimer.c	/^etimer_request_poll(void)$/;"	f
+etimer_reset	.\etimer.c	/^etimer_reset(struct etimer *et)$/;"	f
+etimer_restart	.\etimer.c	/^etimer_restart(struct etimer *et)$/;"	f
+etimer_set	.\etimer.c	/^etimer_set(struct etimer *et, clock_time_t interval)$/;"	f
+etimer_start_time	.\etimer.c	/^etimer_start_time(struct etimer *et)$/;"	f
+etimer_stop	.\etimer.c	/^etimer_stop(struct etimer *et)$/;"	f
+ev	.\process.c	/^  process_event_t ev;$/;"	m	struct:event_data	file:
+event_data	.\process.c	/^struct event_data {$/;"	s	file:
+events	.\process.c	/^static struct event_data events[PROCESS_CONF_NUMEVENTS];$/;"	v	typeref:struct:event_data	file:
+exit_process	.\process.c	/^exit_process(struct process *p, struct process *fromprocess)$/;"	f	file:
+f	.\ctimer.h	/^  void (*f)(void *);$/;"	m	struct:ctimer
+fevent	.\process.c	/^static process_num_events_t nevents, fevent;$/;"	v	file:
+func	.\rtimer.h	/^  rtimer_callback_t func;$/;"	m	struct:rtimer
+initialized	.\ctimer.c	/^static char initialized;$/;"	v	file:
+interval	.\timer.h	/^  clock_time_t interval;$/;"	m	struct:timer
+lastevent	.\process.c	/^static process_event_t lastevent;$/;"	v	file:
+lc	.\pt.h	/^  lc_t lc;$/;"	m	struct:pt
+lc_t	.\lc-switch.h	/^typedef unsigned short lc_t;$/;"	t
+name	.\process.h	/^  const char *name;$/;"	m	struct:process
+needspoll	.\process.h	/^  unsigned char state, needspoll;$/;"	m	struct:process
+nevents	.\process.c	/^static process_num_events_t nevents, fevent;$/;"	v	file:
+next	.\ctimer.h	/^  struct ctimer *next;$/;"	m	struct:ctimer	typeref:struct:ctimer::ctimer
+next	.\etimer.h	/^  struct etimer *next;$/;"	m	struct:etimer	typeref:struct:etimer::etimer
+next	.\process.h	/^  struct process *next;$/;"	m	struct:process	typeref:struct:process::process
+next_expiration	.\etimer.c	/^static clock_time_t next_expiration;$/;"	v	file:
+next_rtimer	.\rtimer.c	/^static struct rtimer *next_rtimer;$/;"	v	typeref:struct:rtimer	file:
+p	.\ctimer.h	/^  struct process *p;$/;"	m	struct:ctimer	typeref:struct:ctimer::process
+p	.\etimer.h	/^  struct process *p;$/;"	m	struct:etimer	typeref:struct:etimer::process
+p	.\process.c	/^  struct process *p;$/;"	m	struct:event_data	typeref:struct:event_data::process	file:
+poll_requested	.\process.c	/^static volatile unsigned char poll_requested;$/;"	v	file:
+process	.\process.h	/^struct process {$/;"	s
+process_alloc_event	.\process.c	/^process_alloc_event(void)$/;"	f
+process_current	.\process.c	/^struct process *process_current = NULL;$/;"	v	typeref:struct:process
+process_data_t	.\process.h	/^typedef void *        process_data_t;$/;"	t
+process_event_t	.\process.h	/^typedef unsigned char process_event_t;$/;"	t
+process_exit	.\process.c	/^process_exit(struct process *p)$/;"	f
+process_init	.\process.c	/^process_init(void)$/;"	f
+process_is_running	.\process.c	/^process_is_running(struct process *p)$/;"	f
+process_list	.\process.c	/^struct process *process_list = NULL;$/;"	v	typeref:struct:process
+process_maxevents	.\process.c	/^process_num_events_t process_maxevents;$/;"	v
+process_nevents	.\process.c	/^process_nevents(void)$/;"	f
+process_num_events_t	.\process.h	/^typedef unsigned char process_num_events_t;$/;"	t
+process_poll	.\process.c	/^process_poll(struct process *p)$/;"	f
+process_post	.\process.c	/^process_post(struct process *p, process_event_t ev, process_data_t data)$/;"	f
+process_post_synch	.\process.c	/^process_post_synch(struct process *p, process_event_t ev, process_data_t data)$/;"	f
+process_run	.\process.c	/^process_run(void)$/;"	f
+process_start	.\process.c	/^process_start(struct process *p, process_data_t data)$/;"	f
+procinit_init	.\procinit.c	/^procinit_init(void)$/;"	f
+pt	.\process.h	/^  struct pt pt;$/;"	m	struct:process	typeref:struct:process::pt
+pt	.\pt.h	/^struct pt {$/;"	s
+ptr	.\ctimer.h	/^  void *ptr;$/;"	m	struct:ctimer
+ptr	.\rtimer.h	/^  void *ptr;$/;"	m	struct:rtimer
+rtimer	.\rtimer.h	/^struct rtimer {$/;"	s
+rtimer_callback_t	.\rtimer.h	/^typedef void (* rtimer_callback_t)(struct rtimer *t, void *ptr);$/;"	t
+rtimer_clock_t	.\rtimer.h	/^typedef unsigned short rtimer_clock_t;$/;"	t
+rtimer_init	.\rtimer.c	/^rtimer_init(void)$/;"	f
+rtimer_run_next	.\rtimer.c	/^rtimer_run_next(void)$/;"	f
+rtimer_set	.\rtimer.c	/^rtimer_set(struct rtimer *rtimer, rtimer_clock_t time,$/;"	f
+start	.\timer.h	/^  clock_time_t start;$/;"	m	struct:timer
+state	.\process.h	/^  unsigned char state, needspoll;$/;"	m	struct:process
+time	.\rtimer.h	/^  rtimer_clock_t time;$/;"	m	struct:rtimer
+timer	.\etimer.h	/^  struct timer timer;$/;"	m	struct:etimer	typeref:struct:etimer::timer
+timer	.\timer.h	/^struct timer {$/;"	s
+timer_expired	.\timer.c	/^timer_expired(struct timer *t)$/;"	f
+timer_remaining	.\timer.c	/^timer_remaining(struct timer *t)$/;"	f
+timer_reset	.\timer.c	/^timer_reset(struct timer *t)$/;"	f
+timer_restart	.\timer.c	/^timer_restart(struct timer *t)$/;"	f
+timer_set	.\timer.c	/^timer_set(struct timer *t, clock_time_t interval)$/;"	f
+timerlist	.\etimer.c	/^static struct etimer *timerlist;$/;"	v	typeref:struct:etimer	file:
+update_time	.\etimer.c	/^update_time(void)$/;"	f	file:
+used	.\arg.c	/^  char used;$/;"	m	struct:argbuf	file:
